@@ -82,7 +82,7 @@ public class LoteriaCard
     }
 
 	/**
-	* Gets Image object for this card by reading it from the appropriate location in a replit project
+	* Gets Image object for this card by reading it from the appropriate location in a intellij project
 	*
 	* @return returns Image object that can be used to display it in an ImageView in GUI
 	**/
